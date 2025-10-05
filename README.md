@@ -63,7 +63,7 @@ The hospital management team needed a clear view of **patient admissions, diagno
 
 ### 🖼️ Dashboard Preview
 
-🖼️ *[View Full Dashboard Image]()*
+🖼️ *[View Full Dashboard Image](https://github.com/mydeepcode/Papollo-Hospitals-Leads-Flow-Dashboard/blob/main/Apollo%20Hospitals%20-%20Patient%20Data%20Analytics.png)*
 
 ---
 
